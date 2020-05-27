@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Денис Рыбалко](https://up.htmlacademy.ru/javascript/20/user/1263349).
-* Наставник: `Неизвестно`.
+* Наставник: [Птетька Волобуев](https://htmlacademy.ru/profile/id635515).
 
 ---
 
